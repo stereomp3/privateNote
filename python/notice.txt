@@ -1,0 +1,1 @@
+用linux使用pycharm，要叫出來先到bin裡面，再輸入sh ./pycharm.sh

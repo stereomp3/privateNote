@@ -1,0 +1,25 @@
+Pycharm常用快捷鍵
+
+· 移動到本行開頭: home鍵
+. 移動到本行末尾: end鍵盤
+· 注代碼: ctr|+ /
+. 複製行: ctr+ d
+· 選擇列: shift+ alt+ 鼠標左鍵
+. 移動行: shift+ alt+ 上下箭頭
+. 智能提示: Ctr|+ Space
+. 自動對齊: Ctrl+ alt+ l
+
+Ctrl + p  : 顯示提示
+shift+ f6 : 變數重新命名
+Ctrl + 左鍵: 跳到那個函數
+Ctrl + O  : 把可以重寫(overwrite)的東西叫出來
+alt + 迴車: 可以快速建立東東
+Ctrl + Alt + m: 把選取的地方變函式
+Ctrl + Q  : 可以把用法看得更詳細
+
+# shift + tab 往左
+調適 按F7可以下一行F8可以跳過函式
+
+
+打上prop可以快速建立 @property (唯讀)
+如果是props可以建立 @property 和 @.setter (可讀可寫)
