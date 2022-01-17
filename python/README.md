@@ -1,8 +1,8 @@
 > python note:
 
-* [basic note](./first_step/object_oriented_note)
-* [oriented_note](./first_step/python_base_note)
-* [advance_note](./first_step/python_advance_note)
+* [basic note](./note/object_oriented_note)
+* [oriented_note](./note/python_base_note)
+* [advance_note](./note/python_advance_note)
 
 
 
