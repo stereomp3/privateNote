@@ -4,3 +4,7 @@
 * [oriented_note](./first_step/python_base_note)
 * [advance_note](./first_step/python_advance_note)
 
+
+
+* [code](./pycharm/code)
+
