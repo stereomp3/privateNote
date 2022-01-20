@@ -229,9 +229,10 @@ exercise03
 
 ```python
 def 函數裝飾器名稱(func):
-    def 內嵌函數(*args, **kwargs):  # 合成tuple
-	需要添加的新功能
-	return func(*args, **kwargs)  # 拆 tuple
+    # 內嵌函數名稱
+    def wrapper(*args, **kwargs):  # 合成tuple
+	    # 需要添加的新功能
+		return func(*args, **kwargs)  # 拆 tuple
     return wrapper
 ```
 

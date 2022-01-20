@@ -147,7 +147,7 @@ def move_up():
 
 
 # 6. 定義函數，將二維列表map中的元素向下移
-def move_up():
+def move_down():
     """
         思想:方陣轉置
             調用向右移動
